@@ -1,0 +1,80 @@
+@font-face {
+    font-family: "Sen";
+    src: url("sen/Sen-Bold.woff2") format("woff2"),
+        url("sen/Sen-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sen";
+    src: url("sen/d50adfa411bc2df126ff882cfea088e8.woff2") format("woff2"),
+        url("sen/d50adfa411bc2df126ff882cfea088e8.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sen";
+    src: url("sen/Sen-Bold.woff2") format("woff2"),
+        url("sen/Sen-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sen";
+    src: url("sen/383d9e4b6486cde93cda315beb8002b1.woff2") format("woff2"),
+        url("sen/383d9e4b6486cde93cda315beb8002b1.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sen";
+    src: url("sen/Sen-ExtraBold.woff2") format("woff2"),
+        url("sen/Sen-ExtraBold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sen";
+    src: url("sen/Sen-ExtraBold.woff2") format("woff2"),
+        url("sen/Sen-ExtraBold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sen";
+    src: url("sen/Sen-Regular.woff2") format("woff2"),
+        url("sen/Sen-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sen";
+    src: url("sen/950e19f85eb8dc758a96e02fc75074e4.woff2") format("woff2"),
+        url("sen/950e19f85eb8dc758a96e02fc75074e4.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sen";
+    src: url("sen/Sen-Regular.woff2") format("woff2"),
+        url("sen/Sen-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
